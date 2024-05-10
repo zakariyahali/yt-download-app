@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+frontend-butmuchnicer.py 
+frontend-butnicer.py
+
 # C extensions
 *.so
 
